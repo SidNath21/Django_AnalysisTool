@@ -36,3 +36,5 @@ python manage.py runserver
 * Tejpal Virdi (tejpalv@stanford.edu)
 * Anthony Degleris (degleris@stanford.edu)
 * Bin Wei (research.stat.alc@gmail.com)
+* Siddharth Nath (sidnath21@gmail.com)
+
